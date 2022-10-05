@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "worldtimer",
+    "name": "World Timer Display",
+    "description": "This mod shows a display telling you the ingame time and day. At 6 AM you see a title on your screen telling you the day.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/world-timer-display",
+    "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/world-timer-display/files",
+    "authorList": ["Rotschke"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
